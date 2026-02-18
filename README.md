@@ -3,3 +3,4 @@ Clone
 Create and active virtual env
 Create requirements.txt file
 Install dependencies
+Create directories using template.py
